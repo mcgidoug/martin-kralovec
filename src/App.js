@@ -18,6 +18,12 @@ function App() {
           <AiFillYoutube />
         </div>
       </div>
+
+      <div className="portfolio">
+        <img src="/images/hooded-city.jpg" alt="" />
+        <img src="/images/invader.jpg" alt="" />
+        <img src="/images/three-on-three.jpg" alt="" />
+      </div>
     </div>
   );
 }
