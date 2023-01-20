@@ -24,3 +24,8 @@
 .header > p {
   margin-top: 1rem;
 }
+
+.header > .icons {
+  font-size: 2rem;
+  margin-top: 10px;
+}
