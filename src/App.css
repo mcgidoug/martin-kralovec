@@ -5,6 +5,29 @@
   font-family: "Nanum Myeongjo", serif;
 }
 
+.contactButton {
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid white;
+  width: 80px;
+  height: 25px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.contactButton:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
 .header {
   display: flex;
   align-items: center;

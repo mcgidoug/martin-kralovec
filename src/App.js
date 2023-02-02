@@ -5,6 +5,11 @@ import { FaEtsy, FaBandcamp } from "react-icons/fa";
 function App() {
   return (
     <div className="App">
+      <nav className="navbar">
+        <a href="mailto:martinkralovec65@gmail.com">
+          <div className="contactButton">Contact</div>
+        </a>
+      </nav>
       <div className="header">
         <h1>Martin Kralovec</h1>
         <h4>Dark Art & Illustration</h4>
