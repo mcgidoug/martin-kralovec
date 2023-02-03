@@ -13,15 +13,7 @@ function App() {
       <div className="header">
         <h1>Martin Kralovec</h1>
         <h4>Dark Art & Illustration</h4>
-        <p>
-          I am an artist and illustrator located in Chicago. I work with pen and
-          ink mostly but explore all different types of media; including but not
-          limited to markers, watercolor, acrylic, and paint. I am stylistically
-          versatile, which allows me to reach a larger clientele. I use my art
-          to work out thoughts and convey emotion. I am inspired by googie art,
-          books, art nouveau, nature, gothic, horror art, and movies. From this,
-          I create projects, series, minicomics, and individual pieces of work.
-        </p>
+        <p>Commission Work Available with Inquiry</p>
         <div className="icons">
           <a a href="https://www.instagram.com/martin.kralovec/" target="blank">
             <AiFillInstagram />
