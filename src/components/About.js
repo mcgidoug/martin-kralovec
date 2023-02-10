@@ -1,8 +1,9 @@
 import React from "react";
+import "./About.css";
 
 const About = () => {
   return (
-    <div>
+    <div className="aboutMeSection">
       <h1>About Me</h1>
       <p>
         I am an artist and illustrator located in Chicago. I work with pen and
@@ -13,6 +14,7 @@ const About = () => {
         books, art nouveau, nature, gothic, horror art, and movies. From this, I
         create projects, series, minicomics, and individual pieces of work.
       </p>
+      <a href="/">Home</a>
     </div>
   );
 };

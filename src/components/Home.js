@@ -1,4 +1,5 @@
 import React from "react";
+import "./Home.css";
 import { AiFillInstagram } from "react-icons/ai";
 import { FaEtsy, FaBandcamp } from "react-icons/fa";
 
@@ -29,6 +30,8 @@ export const Home = () => {
             <FaBandcamp />
           </a>
         </div>
+
+        <a href="/about">About Me</a>
       </div>
 
       <div className="portfolio">
@@ -38,10 +41,6 @@ export const Home = () => {
         <img src="/images/lookout.jpg" alt="" />
         <img src="/images/burried.jpg" alt="" />
       </div>
-
-      <footer>
-        <a href="/about">About Me</a>
-      </footer>
     </div>
   );
 };
